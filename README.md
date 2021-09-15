@@ -29,3 +29,10 @@ This project is based on the Pressure Swing Process (PSA) concentrators, and it 
 - Relative humidity sensor (HIH5030)
 - A motor (pump)
 - Potentiometer (flowrate control)
+
+## Circuit schematic ##
+
+![Circuit](https://github.com/AbeRodz/Portable-Oxygen-Concentrator/blob/main/Circuit.JPG "Schematic")
+
+# How to use it? # 
+After installing Proteus, and MicroC, you need to generate and .hex file, and upload it to the PIC on Proteus, then you can check the simulation.
